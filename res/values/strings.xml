@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoralicUtils</string>
+    <string name="ERR_CODE">Error: code </string>
+    <string name="ERR_TIMEOUT">Error: Timeout</string>
+    <string name="ERR_PROT">Error: Protocol problems</string>
+    <string name="ERR_IO">Error: IO problems</string>
+</resources>
